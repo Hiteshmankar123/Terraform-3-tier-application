@@ -2,4 +2,5 @@
 
 Terraform Achitecture 
 Terraform init 
-Terraform 
+Terraform plan 
+Terraform apply

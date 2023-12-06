@@ -5,4 +5,4 @@ Terraform init
 Terraform plan 
 Terraform apply
 Terraform destroy
-Terrform 
+Terrform write

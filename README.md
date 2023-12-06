@@ -4,3 +4,4 @@ Terraform Achitecture
 Terraform init 
 Terraform plan 
 Terraform apply
+Terraform 

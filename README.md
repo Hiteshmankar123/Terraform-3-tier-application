@@ -9,4 +9,4 @@ Terrform write
 
 resources "aws_instance" "new_instance"
 ami = "ami-2862890e8732897345"
-instance type = ""
+instance type = "t2.micro"

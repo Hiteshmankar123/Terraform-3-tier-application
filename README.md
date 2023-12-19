@@ -7,4 +7,4 @@ Terraform apply
 Terraform destroy
 Terrform write
 
-resources ""
+resources "aws_instance" ""

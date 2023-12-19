@@ -17,3 +17,5 @@ key_name = "mumbai_key"
 provider "aws" {
   region = var.region
   }
+
+  provider "aws" {

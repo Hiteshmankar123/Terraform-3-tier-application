@@ -8,4 +8,4 @@ Terraform destroy
 Terrform write
 
 resources "aws_instance" "new_instance"
-ami = "aws"
+ami = "ami-2862890e8732897345"

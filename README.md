@@ -9,8 +9,8 @@ Terrform write
 
 resources "aws_instance" "new_instance"
 ami = "ami-2862890e8732897345"
-instance type = "t2.micro"
-security group = "default"
+instance_type = "t2.micro"
+security_group = "default"
 
 
 provider

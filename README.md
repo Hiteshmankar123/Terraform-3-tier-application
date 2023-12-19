@@ -6,3 +6,5 @@ Terraform plan
 Terraform apply
 Terraform destroy
 Terrform write
+
+resources ""

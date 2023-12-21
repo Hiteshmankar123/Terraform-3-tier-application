@@ -71,4 +71,4 @@ resource "aws_instance" "example" {
   }
 }   
 
-===================================THREE-TIER-
+===================================THREE-TIER-PROJECT

@@ -73,4 +73,4 @@ resource "aws_instance" "example" {
 
 ===================================THREE-TIER-PROJECTS======================================
 
-1. ![Alt text](image.png)
+1. 

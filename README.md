@@ -53,8 +53,7 @@ data "aws_ami" "amzn-linux-2023-ami" {
 
   filter {
     name   = "name"
-    values = ["al2023-ami-2023.*-x86_64"]
-  }
+  
 }
 
 resource "aws_instance" "example" {
